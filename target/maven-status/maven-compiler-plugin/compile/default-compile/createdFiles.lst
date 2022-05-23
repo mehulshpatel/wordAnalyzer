@@ -1,0 +1,8 @@
+com\rest\wordAnalyzer\service\WordFrequencyAnalyzerImpl.class
+com\rest\wordAnalyzer\controller\WordAnalyzerController.class
+com\rest\wordAnalyzer\model\WordFrequency.class
+com\rest\wordAnalyzer\service\WordFrequencyAnalyzer.class
+com\rest\wordAnalyzer\WordAnalyzerApplication.class
+com\rest\wordAnalyzer\model\WordFrequencyModel.class
+com\rest\wordAnalyzer\ApiConfig.class
+com\rest\wordAnalyzer\service\WordAnalyzerComparator.class

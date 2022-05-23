@@ -1,0 +1,5 @@
+#
+#Mon May 23 13:47:22 CEST 2022
+com.rest.wordAnalyzer.WordAnalyzerApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.rest.wordAnalyzer.service.WordFrequencyAnalyzerImpl=org.springframework.stereotype.Component
+com.rest.wordAnalyzer.controller.WordAnalyzerController=org.springframework.stereotype.Component
